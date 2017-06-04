@@ -8,7 +8,7 @@ namespace HomeworkWeek1plus
         {
             InitializeComponent();
 
-            MainPage = new Homework_Week1_plusPage();
+            MainPage = new MyPage();
         }
 
         protected override void OnStart()
