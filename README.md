@@ -18,7 +18,7 @@ Right now, the list of project will mainly be the course assignments. I may add 
 | ![screenshot 1][logo12] | ![screenshot 1][logo22] |
 
 
-[logo11]: https://github.com/abrahamduran/ceiss-xamarin/blob/master/Homework-Week1/screenshot-1.png?raw=true "Screenshot 1"
-[logo12]: https://github.com/abrahamduran/ceiss-xamarin/blob/master/Homework-Week1/screenshot-2.png?raw=true "Screenshot 1"
-[logo21]: https://github.com/abrahamduran/ceiss-xamarin/blob/master/Homework-Week1-plus/screenshot-1.png?raw=true "Screenshot 2"
-[logo22]: https://github.com/abrahamduran/ceiss-xamarin/blob/master/Homework-Week1-plus/screenshot-2.png?raw=true "Screenshot 2"
+[logo11]: https://github.com/abrahamduran/ceiss-xamarin/blob/master/Week%201/Homework-1/screenshot-1.png?raw=true "Screenshot 1"
+[logo12]: https://github.com/abrahamduran/ceiss-xamarin/blob/master/Week%201/Homework-1/screenshot-2.png?raw=true "Screenshot 1"
+[logo21]: https://github.com/abrahamduran/ceiss-xamarin/blob/master/Week%201/Homework-2/screenshot-1.png?raw=true "Screenshot 2"
+[logo22]: https://github.com/abrahamduran/ceiss-xamarin/blob/master/Week%201/Homework-2/screenshot-2.png?raw=true "Screenshot 2"
